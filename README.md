@@ -14,19 +14,25 @@
 ### 📊 Estatísticas GitHub
 
 <p>
-  <img 
-    align="left"
-    alt="GitHub Stats"
-    height="160em" 
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=marioorizon&show_icons=true&theme=tokyonight&include_all_commits=true&locate=pt-br"
-  />
-  <img 
-    align="left"
-    alt="GitHub Stats"
-    height="160em"  
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioorizon&layout=compact&langs_count=7&theme=tokyonight"
-  />
+ 
+<table>
+  <tr>
+    <td>
+      <img 
+        alt="GitHub Stats"
+        height="160em"
+        src="https://github-readme-stats.vercel.app/api?username=marioorizon&show_icons=true&theme=tokyonight&include_all_commits=true"
+      />
+    </td>
+    <td>
+      <img 
+        alt="Top Langs"
+        height="160em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioorizon&layout=compact&langs_count=7&theme=tokyonight"
+      />
+    </td>
+  </tr>
+</table>
 
 </p>
 
