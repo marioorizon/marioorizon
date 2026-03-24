@@ -13,7 +13,7 @@
 
 ### 📊 Estatísticas GitHub
 
-<p align="center">
+<p align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marioorizon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioorizon&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
@@ -60,10 +60,10 @@
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [🔗 qa-portfolio](https://github.com/SEU_USUARIO/qa-portfolio) | Repositório central com cases, documentação e evidências de testes | Markdown, Miro |
-| [🔗 cypress-tests](https://github.com/SEU_USUARIO/cypress-tests) | Automação de testes E2E para aplicações web | Cypress, JavaScript |
-| [🔗 api-testing](https://github.com/SEU_USUARIO/api-testing) | Coleções e scripts de testes de API REST | Postman, Newman |
-| [🔗 test-cases-docs](https://github.com/SEU_USUARIO/test-cases-docs) | Documentação de casos de teste, planos e relatórios de bugs | Markdown, Gherkin |
+| [🔗 qa-portfolio](https://github.com/marioorizon/qa-portfolio) | Repositório central com cases, documentação e evidências de testes | Markdown, Miro |
+| [🔗 cypress-tests](https://github.com/marioorizon/cypress-tests) | Automação de testes E2E para aplicações web | Cypress, JavaScript |
+| [🔗 api-testing](https://github.com/marioorizon/api-testing) | Coleções e scripts de testes de API REST | Postman, Newman |
+| [🔗 test-cases-docs](https://github.com/marioorizon/test-cases-docs) | Documentação de casos de teste, planos e relatórios de bugs | Markdown, Gherkin |
 
 ---
 
