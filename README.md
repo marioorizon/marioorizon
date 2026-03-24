@@ -32,8 +32,6 @@
 
 <br clear="both"/>
 
----
-
 ### 🛠️ Ferramentas & Tecnologias de QA
 
 <p align="center">
