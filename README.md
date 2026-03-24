@@ -31,6 +31,9 @@
 </p>
 
 <br clear="both"/>
+<br/>
+
+<hr/>
 
 ### 🛠️ Ferramentas & Tecnologias de QA
 
