@@ -6,7 +6,7 @@
   Sou Analista de Suporte Sênior em migração para a área de Quality Assurance.
   Entusiasta da qualidade de software, automação de testes e boas práticas de desenvolvimento.
   Atualmente focado em construir uma base sólida em testes manuais e automatizados para garantir
-  entregas com mais confiança e menos bugs. 🐛➡️✅
+  entregas com mais confiança e menos bugs. 
 </p>
 
 ---
