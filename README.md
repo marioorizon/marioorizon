@@ -13,10 +13,24 @@
 
 ### 📊 Estatísticas GitHub
 
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marioorizon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioorizon&layout=compact&langs_count=7&theme=tokyonight"/>
+<p>
+  <img 
+    align="center"
+    alt="GitHub Stats"
+    height="160em" 
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=marioorizon&show_icons=true&theme=tokyonight&include_all_commits=true&locate=pt-br"
+  />
+<img 
+    align="center"
+    alt="GitHub Stats"
+    height="160em"  
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioorizon&layout=compact&langs_count=7&theme=tokyonight"
+  />
+
 </p>
+
+<br clear="both"/>
 
 ---
 
@@ -82,15 +96,15 @@
 
 ### 🌱 Formação & Certificações
 
-- 📚 **The Complete 2026 Software Testing Bootcamp - Udemy** — em andamento
-- 🗿 **Mentora de QA: Sofia Foresto** — Eterno aluno 
+- 📚 **"[The Complete 2026 Software Testing Bootcamp](https://www.udemy.com/share/101r4S3@1rIh2qxlh2z6fQddppjok-_VQOO1SE0a4ADa3bUSmVWb2mJxBXSqHUEHFxsHUfD0Fg==/)"** — em andamento
+- 🗿 **Mentora de QA: "[Sofia Foresto](https://www.linkedin.com/in/sofia-foresto-848987353/?locale=pt_BR)"** — Eterno aluno 
 - 📜 **ISTQB CTFL** — em estudo
 - 🎓 **(UoPeople), Pasadena, Califórnia. Bacharelado em Ciência da Computação (BSC) - EAD** — Previsão de conclusão: 2029
 - 💼 **Analista de Suporte Sênior** — Grupo Stefanini 
 
 ---
 
-### 📫 Onde me encontrar
+### 📫 Onde Vagueio
 
 <p align="center">
   <a href="https://linkedin.com/in/mario-barros-" target="_blank">
