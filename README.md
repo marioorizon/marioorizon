@@ -15,14 +15,14 @@
 
 <p>
   <img 
-    align="center"
+    align="left"
     alt="GitHub Stats"
     height="160em" 
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=marioorizon&show_icons=true&theme=tokyonight&include_all_commits=true&locate=pt-br"
   />
 <img 
-    align="center"
+    align="left"
     alt="GitHub Stats"
     height="160em"  
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioorizon&layout=compact&langs_count=7&theme=tokyonight"
