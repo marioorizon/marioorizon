@@ -28,18 +28,13 @@
       <img 
         alt="Top Langs"
         height="160em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioorizon&layout=compact&langs_count=7&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioorizon&layout=compact&custom_title=Tecnologias&langs_count=7&theme=tokyonight"
       />
     </td>
   </tr>
 </table>
 
 </p>
-
-<br clear="both"/>
-<br/>
-
-<hr/>
 
 ### 🛠️ Ferramentas & Tecnologias de QA
 
