@@ -3,7 +3,7 @@
 <h3 align="center">🔍 Analista de Suporte Sr. | Em transição para Qualidade de Software</h3>
 
 <p align="center">
-  Sou Analista de Suporte Sênior em transição para a área de Quality Assurance.
+  Sou Analista de Suporte Sênior em migração para a área de Quality Assurance.
   Entusiasta da qualidade de software, automação de testes e boas práticas de desenvolvimento.
   Atualmente focado em construir uma base sólida em testes manuais e automatizados para garantir
   entregas com mais confiança e menos bugs. 🐛➡️✅
@@ -82,9 +82,10 @@
 
 ### 🌱 Formação & Certificações
 
-- 📚 **[The Complete 2026 Software Testing Bootcamp - Udemy]** — em andamento
+- 📚 **The Complete 2026 Software Testing Bootcamp - Udemy** — em andamento
+- 🗿 **Mentora de QA: Sofia Foresto** — Eterno aluno 
 - 📜 **ISTQB CTFL** — em estudo
-- 🎓 **[(UoPeople), Pasadena, Califórnia. Bacharelado em Ciência da Computação (BSC) - EAD]** Previsão de conclusão: 2029
+- 🎓 **(UoPeople), Pasadena, Califórnia. Bacharelado em Ciência da Computação (BSC) - EAD** — Previsão de conclusão: 2029
 - 💼 **Analista de Suporte Sênior** — Grupo Stefanini 
 
 ---
